@@ -1,0 +1,30 @@
+- Index: 0
+  Template: NecroSpell
+  Texts:
+    Part Cost: 2
+    Card Text: (Any Phase Spell)                    Deal 2 Damage to any minion or player
+    Card Title: Kill Scythe
+- Index: 1
+  Template: NecroSpell
+  Texts:
+    Part Cost: 0
+    Card Text: (Plotting Phase Spell)             Draw 2 parts from the Bonepile OR                                             Draw 2 cards from any discard pile
+    Card Title: Exhume
+- Index: 2
+  Template: NecroSpell
+  Texts:
+    Part Cost: 1
+    Card Text: (Plotting phase Spell)                You may place down an additional 2 parts during this plotting phase.
+    Card Title: Call of Blood
+- Index: 3
+  Template: NecroSpell
+  Texts:
+    Part Cost: 3
+    Card Text: (Any Phase Spell)               Remove up to 4 damage counters from any single minion or player
+    Card Title: Healing Ichor
+- Index: 4
+  Template: NecroSpell
+  Texts:
+    Part Cost: 5
+    Card Text: (Execute Phase Only)             Chose a commanded minion that you control . That minion exploads dealing damage equal to its health to any target of your chooseing
+    Card Title: Corpse Explosion

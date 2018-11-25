@@ -1,0 +1,27 @@
+- Name: NecroSpell
+  Guid: 30b63d23-8b2e-423c-95f3-a549684f445c
+  TextPositions:
+  - Name: Part Cost
+    Guid: dabd7d8a-7187-4bb2-9cf8-828136a2c053
+    DummyText: 0
+    Font: Franklin Gothic Medium, 72pt, style=Bold
+    Rectangle: 23, 24, 142, 140
+    Color: Black
+    AlignHorizontal: Center
+    AlignVertical: Center
+  - Name: Card Text
+    Guid: 94511ab4-187f-414a-b2e9-f2fdfc68cf55
+    DummyText: Card Text
+    Font: Microsoft Sans Serif, 27.75pt
+    Rectangle: 40, 686, 597, 300
+    Color: Black
+    AlignHorizontal: Left
+    AlignVertical: Top
+  - Name: Card Title
+    Guid: 26382fec-f325-423d-9b3a-1a2046b1e2be
+    DummyText: Card Title
+    Font: Franklin Gothic Medium, 36pt, style=Bold
+    Rectangle: 88, 607, 500, 73
+    Color: Black
+    AlignHorizontal: Center
+    AlignVertical: Center
